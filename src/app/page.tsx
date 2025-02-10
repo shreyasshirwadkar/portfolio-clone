@@ -6,7 +6,6 @@ import Projects from "@/components/projects";
 import Services from "@/components/Services";
 import Skills from "@/components/Skills";
 import Testimonials from "@/components/testimonials";
-import Timeline from "@/components/Timeline";
 import { Portfolio } from "@/utils/interface";
 
 export default async function Home() {
