@@ -86,8 +86,8 @@ const TimelineCard = ({
   <section id="about" className="border-b border-primary/20 py-4">
     <div
       className="flex items-center justify-between gap-4 cursor-pointer select-none"
-      onClick={() => setActiveIndex(index)}
-    >
+      onClick={() => setActiveIndex(activeIndex === index ? -1 : index)}
+      >
       <span>0{index + 1}</span>
       <span className="text-xl md:text-3xl font-bold flex-1">
         {timeline.jobTitle}
@@ -105,10 +105,15 @@ const TimelineCard = ({
     </div>
     <motion.div
       initial={{
-        height: activeIndex === index ? "100%" : 0,
+        height: 0,
+        opacity: 0,
       }}
       animate={{
-        height: activeIndex === index ? "100%" : 0,
+        height: activeIndex === index ? "auto" : 0,
+        opacity: activeIndex === index ? 1 : 0,
+      }}
+      transition={{
+        duration: 0.3,
       }}
       className="overflow-hidden"
     >

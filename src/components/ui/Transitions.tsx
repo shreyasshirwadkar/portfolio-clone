@@ -3,6 +3,8 @@
 import { HTMLMotionProps, motion } from "motion/react";
 import { HTMLAttributes, useRef } from "react";
 import { useGSAP } from "@gsap/react";
+import { ReactNode } from "react";
+
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(useGSAP, ScrollTrigger);
@@ -83,10 +85,17 @@ export const OpacityTextReveal = (props: HTMLAttributes<HTMLSpanElement>) => {
     />
   );
 };
+interface OpacityTransitionProps {
+  children: ReactNode;
+}
 
-export const OpacityTransition = ({ children }: { children: string }) => {
+export const OpacityTransition = ({ children }: OpacityTransitionProps) => {
+  if (typeof children !== "string") {
+    return <div className="overflow-hidden">{children}</div>;
+  }
+
   return (
-    <div className="overflow-hidden ">
+    <div className="overflow-hidden">
       {children.split("").map((char, i) => (
         <motion.span
           initial={{ opacity: 0.1 }}

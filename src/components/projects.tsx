@@ -1,13 +1,12 @@
 "use client";
 
 import { AnimatePresence, motion } from "motion/react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import { SectionHeading, TextReveal } from "./ui/Typography";
 import { Project } from "../utils/interface";
 import ProjectDialog from "./ProjectDialog";
 import { ArrowUpRight } from "./ui/Icons";
-import Filters from "./filters";
 import { useVariants } from "../utils/hooks";
 import { SlideIn, Transition } from "./ui/Transitions";
 
@@ -16,44 +15,20 @@ interface ProjectsProps {
 }
 
 function Projects({ projects }: ProjectsProps) {
-  const [filteredProjects, setFilteredProjects] = useState(projects);
-  const [filterValue, setFilterValue] = useState("");
   const [showMore, setShowMore] = useState(false);
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
 
   const numProjectToShow = 6;
 
-  useEffect(() => {
-    const filtered = applyFilters(projects, filterValue);
-    setFilteredProjects(filtered);
-  }, [filterValue, projects]);
-
-  const applyFilters = (data: Project[], filterValues: string) => {
-    if (!filterValue || filterValues === "all") {
-      return data;
-    }
-
-    return data.filter((project) =>
-      project.techStack.some((tech) => filterValues === tech.trim())
-    );
-  };
-
   return (
     <section className="md:p-8 p-4 mt-10 relative" id="projects">
       <SectionHeading className="md:pl-12">
-        <SlideIn className="text-white/40">Selected</SlideIn>
-        <br />
-        <SlideIn>works</SlideIn>
+        <SlideIn>Projects</SlideIn>
       </SectionHeading>
-      <Filters
-        projects={projects}
-        filterValue={filterValue}
-        setFilterValue={setFilterValue}
-      />
 
       <motion.div className="grid md:grid-cols-3 grid-cols-2 md:gap-6 gap-3 relative">
-        {filteredProjects
-          .slice(0, showMore ? filteredProjects.length : numProjectToShow)
+        {projects
+          .slice(0, showMore ? projects.length : numProjectToShow)
           .map((project, index) => (
             <Transition
               transition={{ delay: 0.2 + index * 0.1 }}
@@ -79,7 +54,7 @@ function Projects({ projects }: ProjectsProps) {
         </AnimatePresence>
       </motion.div>
       <div className="grid place-items-center py-8">
-        {filteredProjects.length > numProjectToShow && (
+        {projects.length > numProjectToShow && (
           <button
             className="flex items-center justify-center gap-4 py-3 px-6 rounded-full border mt-6 group relative overflow-hidden"
             onClick={() => setShowMore(!showMore)}
@@ -140,7 +115,7 @@ const Card = ({ title, image }: Project) => {
             animate={{ y: hover ? -10 : 0, opacity: hover ? 1 : 0 }}
             className="absolute text-white/50"
           >
-            Lorem ipsum dolor sit amet.
+            Check out the project.
           </motion.p>
         </div>
       </div>

@@ -1,18 +1,18 @@
 {
   "about": {
-    "name": "John doe",
+    "name": "Shreyas.",
     "title": "Software Developer",
-    "subTitle": "I develop 3D visuals, user interfaces and web applications",
-    "description": "As a React developer with 5 years of experience, I have honed my skills in JavaScript and am currently learning TypeScript to expand my expertise. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems.",
-    "quote": "Live the Life as you want",
-    "exp_year": "5",
-    "address": "Los Angeles , America",
+    "subTitle": "I develop user interfaces and web applications",
+    "description": "I’m a passionate developer skilled in Flutter, React, and full-stack development, focused on building solutions that drive real impact. With a strong foundation in JavaScript, I’m expanding into TypeScript and Machine Learning to create scalable, user-friendly applications that make a difference.",
+    "quote": "Building the future, one line at a time.",
+    "exp_year": "1",
+    "address": "Pune, India",
     "some_total": "90",
-    "phoneNumber": "+91-9528391901",
-    "contactEmail": "work.tehseen@gmail.com",
+    "phoneNumber": "+91-7666521232",
+    "contactEmail": "shreyas.shirwadkar@gmail.com",
     "avatar": {
       "public_id": "portfolio3/1713995155677-122l5x.webp",
-      "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713995155677-122l5x.webp"
+      "url": "https://pbs.twimg.com/profile_images/1803140711065214976/kjNBg7zv_400x400.jpg"
     },
     "alternateAvatars": [
       {
@@ -28,129 +28,42 @@
   },
   "_id": "65b3a22c01d900e96c4219ae",
   "username": "portfolio3",
-  "email": "work.tehseen@gmail.com",
+  "email": "shreyas.shirwadkar@gmail.com",
   "role": "admin",
   "timeline": [
     {
-      "company_name": "StartupX",
-      "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
-      "sequence": 6,
-      "startDate": "2023-11-13T00:00:00.000Z",
-      "endDate": "2024-03-13T00:00:00.000Z",
-      "jobTitle": "Backend Developer",
-      "jobLocation": " Los Angeles, CA",
+      "company_name": "Pune Institute of Computer Technology",
+      "summary": "Created a quiz platform for specially abled children.",
+      "sequence": 2,
+      "startDate": "2024-07-11T00:00:00.000Z",
+      "endDate": "2024-09T00:00:00.000Z",
+      "jobTitle": "Software Developer Intern",
+      "jobLocation": "Pune, MH",
       "bulletPoints": [
-        "Developed scalable backend services using Python and Django framework.",
-        "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-        "\nDesigned and optimized database schemas for performance and scalability.",
-        "\nImplemented real-time messaging features using WebSockets and Redis.",
-        "\nWorked closely with frontend developers to design APIs and ensure smooth integration with the frontend."
+        "Developed a Quiz Platform tailored for children with hearing and speech impairments",
+        "\nSupported by the Rajiv Gandhi Science and Technology Commission, Govt. of Maharashtra.",
+        "\nCurrently being used in various schools in pune"
       ],
       "forEducation": true,
-      "enabled": true,
-      "_id": "65f1fe900556c3f887e9db94"
-    },
-    {
-      "company_name": "CloudTech Innovations",
-      "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
-      "sequence": 4,
-      "startDate": "2024-03-06T00:00:00.000Z",
-      "endDate": "2024-03-20T00:00:00.000Z",
-      "jobTitle": "Software Developer",
-      "jobLocation": "Austin, TX",
-      "bulletPoints": [
-        "Developed microservices using Node.js and deployed them using Docker containers.",
-        "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-        "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
-        "\nDesigned and implemented RESTful APIs for various platform features.",
-        "\nCollaborated with DevOps engineers to automate deployment and testing processes."
-      ],
-      "forEducation": false,
-      "enabled": true,
-      "_id": "65f1fe4e0556c3f887e9db22"
-    },
-    {
-      "company_name": "Digital Solutions Co.",
-      "summary": "Contributed to the development of a comprehensive CRM solution for enterprise clients.",
-      "sequence": 3,
-      "startDate": "2023-10-11T00:00:00.000Z",
-      "endDate": "2024-03-28T00:00:00.000Z",
-      "jobTitle": "Frontend Developer",
-      "jobLocation": "Seattle, WA",
-      "bulletPoints": [
-        "Implemented user interface components using AngularJS and TypeScript.",
-        "\nCollaborated with backend developers to integrate frontend components with RESTful APIs.",
-        "\nDeveloped custom data visualizations and dashboards using D3.js and Chart.js.",
-        "\nParticipated in sprint planning meetings and provided accurate estimates for feature development.",
-        "\nConducted A/B tests and analyzed user feedback to iterate on product features.",
-        ""
-      ],
-      "forEducation": false,
       "enabled": true,
       "_id": "65f1fe1e0556c3f887e9dab2"
     },
     {
-      "company_name": "DataTech Solutions",
+      "company_name": "VirtueByte",
       "summary": "Played a key role in developing a data analytics platform for a diverse range of clients.",
-      "sequence": 2,
+      "sequence": 1,
       "startDate": "2024-03-13T00:00:00.000Z",
       "endDate": "2024-03-22T00:00:00.000Z",
-      "jobTitle": " Full Stack Developer",
-      "jobLocation": " New York, NY",
+      "jobTitle": "Software Developer Intern",
+      "jobLocation": " Pune, MH",
       "bulletPoints": [
-        "Developed RESTful APIs and integrated third-party services to ingest and process large volumes of data.",
-        "\nDesigned and implemented responsive user interfaces using React.js and Bootstrap.",
-        "\nWorked closely with data scientists to integrate machine learning models into the platform.",
-        "\nOptimized database queries and improved overall system performance.",
-        "\nConducted unit tests and participated in peer code reviews to ensure code quality.\n"
+        "Designed and developed a fully responsive website for the company",
+        "\nDesigned and implemented website using React.js",
+        "\nOptimized performance and scalability"
       ],
       "forEducation": true,
       "enabled": true,
       "_id": "65f1fdef0556c3f887e9da44"
-    },
-    {
-      "company_name": "Tech Innovations Inc.",
-      "summary": "Contributed to the development of a cutting-edge mobile application aimed at revolutionizing the e-commerce industry.\n",
-      "sequence": 1,
-      "icon": {
-        "public_id": "portfolio3/1710357917833-0mic4.png",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
-      },
-      "startDate": "2024-01-03T00:00:00.000Z",
-      "endDate": "2024-03-08T00:00:00.000Z",
-      "jobTitle": "Software Engineer",
-      "jobLocation": "San Francisco, CA",
-      "bulletPoints": [
-        "Implemented core features and functionalities using React Native.",
-        "Collaborated closely with designers and product managers to iterate on user feedback.",
-        "Conducted code reviews and provided constructive feedback to team members.",
-        "Resolved complex technical challenges to ensure the smooth operation of the application.",
-        "Participated in daily stand-up meetings and sprint planning sessions."
-      ],
-      "forEducation": false,
-      "enabled": true,
-      "_id": "65f1fd9e0556c3f887e9d9d8"
-    },
-    {
-      "company_name": "ThePortfolyo",
-      "summary": "",
-      "sequence": 1,
-      "icon": {
-        "public_id": "1706289470834-siro83",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706289470834-siro83"
-      },
-      "startDate": "2023-12-13T00:00:00.000Z",
-      "endDate": "2024-01-25T00:00:00.000Z",
-      "jobTitle": "Software Developer",
-      "jobLocation": "Bangalore",
-      "bulletPoints": [
-        "Design and build full website",
-        " Optimized Site ",
-        " SEO implemented"
-      ],
-      "forEducation": true,
-      "enabled": true,
-      "_id": "65b3e93feb20546ae6d46369"
     }
   ],
   "skills": [
@@ -406,230 +319,80 @@
   ],
   "projects": [
     {
-      "liveurl": "#",
+      "liveurl": "https://landing-page-leo.vercel.app/",
       "githuburl": "#",
-      "title": "Project 14",
-      "sequence": 14,
-      "image": {
-        "public_id": "1706285511679-xe7r9t",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285511679-xe7r9t"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d9c8d017f6b49c778ca7",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 14",
-      "sequence": 15,
-      "image": {
-        "public_id": "1706285468702-igx05q",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285468702-igx05q"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d99dd017f6b49c778c86",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 13",
-      "sequence": 13,
-      "image": {
-        "public_id": "1706285431821-3lfg2r",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285431821-3lfg2r"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d978d017f6b49c778c67",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 12",
-      "sequence": 12,
-      "image": {
-        "public_id": "1706285416017-wra7swm",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285416017-wra7swm"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d969d017f6b49c778c4a",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 11",
-      "sequence": 11,
-      "image": {
-        "public_id": "1706285405228-98liol",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285405228-98liol"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d95dd017f6b49c778c2f",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 10",
-      "sequence": 10,
-      "image": {
-        "public_id": "1706285393568-zl9mcc",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285393568-zl9mcc"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs "],
-      "_id": "65b3d952d017f6b49c778c16",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 9",
-      "sequence": 9,
-      "image": {
-        "public_id": "1706285378965-91vbk",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285378965-91vbk"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d943d017f6b49c778bff",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 8",
-      "sequence": 8,
-      "image": {
-        "public_id": "1706285368529-zdr5fl",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs  ", " Mern ", " CSS"],
-      "_id": "65b3d938d017f6b49c778bea",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 7",
-      "sequence": 7,
-      "image": {
-        "public_id": "1706285357884-3ja6sw",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285357884-3ja6sw"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs   ", " CSS"],
-      "_id": "65b3d92ed017f6b49c778bd7",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 6",
-      "sequence": 6,
-      "image": {
-        "public_id": "1706285347449-dniw0h",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285347449-dniw0h"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": [" Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d923d017f6b49c778bc6",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 5",
+      "title": "Saas Landing Page",
       "sequence": 5,
       "image": {
         "public_id": "1706285323287-nt3ya3",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285323287-nt3ya3"
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/saas.png?raw=true"
       },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Mern ", " CSS"],
+      "description": "Developed a responsive and animated landing page for a SaaS platform, enhancing user experience with modern design and smooth transitions.",
+      "techStack": [" Nextjs ", "Reactjs ", " Mern ", " CSS"],
       "_id": "65b3d8fed017f6b49c778ba9",
       "enabled": true
     },
     {
-      "liveurl": "#",
+      "liveurl": "https://credenz.co.in/",
       "githuburl": "#",
-      "title": "Project 4",
+      "title": "Credenz",
       "sequence": 4,
       "image": {
         "public_id": "1706284852474-gh2ng",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284852474-gh2ng"
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/credenz.png?raw=true"
       },
-      "description": "lorem ipsumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "description": "Designed a retro game-themed website for the Credenz event hosted by PICT IEEE Student Branch, integrating creative elements for an engaging experience.",
       "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
       "_id": "65b3d734313a9b09a24a14a3",
       "enabled": true
     },
     {
-      "liveurl": "#",
+      "liveurl": "https://quizaid.netlify.app/",
       "githuburl": "#",
-      "title": "Project 3",
+      "title": "Quiz Aid",
       "sequence": 3,
       "image": {
         "public_id": "1706284839761-ckccdj",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284839761-ckccdj"
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/quiz.png?raw=true"
       },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "description": "Developed an Interactive Quiz Platform tailored for children with hearing and speech impairments, as part of a special initiative at PICT College, supported by the Rajiv Gandhi Science and Technology Commission, Government of Maharashtra.",
       "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
       "_id": "65b3d728313a9b09a24a1498",
       "enabled": true
     },
     {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 2",
-      "sequence": 2,
-      "image": {
-        "public_id": "1706284824843-56iakg",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284824843-56iakg"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS ", " TailwindCSS"],
-      "_id": "65b3d719313a9b09a24a148f",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 1",
+      "liveurl": "https://github.com/shreyasshirwadkar/medium-blog-app",
+      "githuburl": "https://github.com/shreyasshirwadkar/medium-blog-app",
+      "title": "Medium clone",
       "sequence": 1,
       "image": {
         "public_id": "1706284812399-jr7rqj",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284812399-jr7rqj"
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/medium.png?raw=true"
       },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "description": "Built a Medium clone blog platform, enabling users to publish, read, and edit blogs, focusing on functionality and user-friendly design.",
       "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
       "_id": "65b3d70d313a9b09a24a1488",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://virtuebyte.in/",
+      "githuburl": "#",
+      "title": "Virtuebyte",
+      "sequence": 2,
+      "image": {
+        "public_id": "1706284824843-56iakg",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/virtuebyte.png?raw=true"
+      },
+      "description": "Designed and developed a fully responsive website for the company using ReactJS, improving functionality and user engagement.",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS ", " TailwindCSS"],
+      "_id": "65b3d719313a9b09a24a148f",
       "enabled": true
     }
   ],
   "social_handles": [
     {
-      "platform": "Instagram",
-      "url": "https://www.instagram.com/tehseen.01/",
-      "image": {
-        "public_id": "1708718250873-3038n7.webp",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
-      },
-      "enabled": true,
-      "_id": "65b3ea4feb20546ae6d4641d"
-    },
-    {
       "platform": "LinkedIn",
-      "url": "http://www.linkedin.com/in/tehseen01",
+      "url": "https://www.linkedin.com/in/shreyas-shirwadkar/",
       "image": {
         "public_id": "1708718263294-2lfj67.webp",
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
@@ -640,7 +403,7 @@
     {
       "enabled": true,
       "platform": "Twitter",
-      "url": "https://x.com/tehseen_type",
+      "url": "https://x.com/ShreyasShir",
       "image": {
         "public_id": "1708718328750-d4jsq.webp",
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
@@ -648,20 +411,20 @@
       "_id": "65b3e47cb48589dfcae185bd"
     },
     {
-      "enabled": true,
-      "platform": "Facebook",
-      "url": "#",
+      "platform": "Github",
+      "url": "https://github.com/shreyasshirwadkar",
       "image": {
-        "public_id": "1708718346601-xldm.webp",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
       },
-      "_id": "65b3e43cb48589dfcae1856c"
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c22"
     }
   ],
   "services": [
     {
       "name": "App Development",
-      "charge": "$300",
+      "charge": "",
       "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
       "enabled": true,
       "_id": "65f1fd690556c3f887e9d94a",
@@ -672,7 +435,7 @@
     },
     {
       "name": "Web & App ",
-      "charge": "$600",
+      "charge": "",
       "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
       "image": {
         "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
@@ -683,7 +446,7 @@
     },
     {
       "name": "UI/UX Solutions",
-      "charge": "$399",
+      "charge": "",
       "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
       "image": {
         "public_id": "1706290914024-725ytf",
@@ -691,39 +454,6 @@
         "_id": "65b3eee8eb20546ae6d467fe"
       },
       "_id": "65b3e33db48589dfcae1851d",
-      "enabled": true
-    },
-    {
-      "name": "Global Marketing",
-      "charge": "$699",
-      "desc": "Custom marketing solutions. Get your business on the next level. We provide worldwide marketing.",
-      "image": {
-        "public_id": "portfolio3/1710357668346-ke8kgt.jpeg",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357668346-ke8kgt.jpeg"
-      },
-      "_id": "65b3e322b48589dfcae184d0",
-      "enabled": true
-    },
-    {
-      "name": "Brand Consultant",
-      "charge": "$499",
-      "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
-      "image": {
-        "public_id": "portfolio3/1710357680224-phijt.png",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357680224-phijt.png"
-      },
-      "_id": "65b3e2f6b48589dfcae1843b",
-      "enabled": true
-    },
-    {
-      "name": "Wordpress Development",
-      "charge": "$499",
-      "desc": "Get yourself a website.",
-      "image": {
-        "public_id": "portfolio3/1710357752227-6f5trs.jpeg",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357752227-6f5trs.jpeg"
-      },
-      "_id": "65b3e2a6b48589dfcae183f2",
       "enabled": true
     }
   ],

@@ -13,16 +13,11 @@ const Loader = ({ setHideLoader }: PageLoadProps) => {
 
   useEffect(() => {
     const count = setInterval(() => {
-      if (counter < 100) {
-        setCounter(counter + 2);
-      } else {
-        clearInterval(count);
-      }
+      setCounter((prev) => (prev < 100 ? prev + 2 : prev));
+      if (counter >= 100) clearInterval(count);
     }, 25);
 
-    return () => {
-      clearInterval(count);
-    };
+    return () => clearInterval(count);
   }, [counter]);
 
   return (
@@ -39,9 +34,12 @@ const Loader = ({ setHideLoader }: PageLoadProps) => {
         </Transition>
         <div className="flex flex-col max-md:justify-between max-md:h-full">
           <Transition transition={{ delay: 0.4 }}>
-            <div className="text-3xl md:text-5xl w-full md:w-2/5 whitespace-pre-wrap">
+            <div className="text-5xl md:text-5xl w-full md:w-2/5 whitespace-pre-wrap">
               <OpacityTransition>
-                I develop 3D visuals, user interfaces and web applications
+                I develop <br />
+                applications and
+                <br />
+                user interfaces
               </OpacityTransition>
             </div>
           </Transition>
