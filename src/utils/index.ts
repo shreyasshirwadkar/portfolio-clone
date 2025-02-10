@@ -36,10 +36,10 @@ export function constructMetadata({
     ],
     authors: [
       {
-        name: "Tehseen",
+        name: "Shreyas",
       },
     ],
-    creator: "Tehseen",
+    creator: "Shreyas",
     openGraph: {
       type: "website",
       locale: "en_US",
@@ -53,7 +53,7 @@ export function constructMetadata({
       title,
       description,
       images: [image],
-      creator: "@tehseen_type",
+      creator: "@Shreyas_type",
     },
     icons,
     metadataBase: new URL(siteConfig.url),
