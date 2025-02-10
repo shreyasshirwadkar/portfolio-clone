@@ -52,8 +52,8 @@
       "company_name": "VirtueByte",
       "summary": "Played a key role in developing a data analytics platform for a diverse range of clients.",
       "sequence": 1,
-      "startDate": "2024-03-13T00:00:00.000Z",
-      "endDate": "2024-03-22T00:00:00.000Z",
+      "startDate": "2024-08-13T00:00:00.000Z",
+      "endDate": "2024-11-22T00:00:00.000Z",
       "jobTitle": "Software Developer Intern",
       "jobLocation": " Pune, MH",
       "bulletPoints": [
@@ -430,16 +430,16 @@
       "_id": "65f1fd690556c3f887e9d94a",
       "image": {
         "public_id": "portfolio3/1710364293287-4q1ngo.webp",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+        "url": "https://i.pinimg.com/736x/1b/4b/24/1b4b248ada4c022809e443a7d24020a2.jpg"
       }
     },
     {
-      "name": "Web & App ",
+      "name": "Web Development ",
       "charge": "",
       "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
       "image": {
         "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357775748-9vwq4q.jpeg"
+        "url": "https://i.pinimg.com/736x/a7/6b/64/a76b6404c6296b32ed0a85dcf334d188.jpg"
       },
       "enabled": true,
       "_id": "65f1fd100556c3f887e9d87b"
@@ -450,7 +450,7 @@
       "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
       "image": {
         "public_id": "1706290914024-725ytf",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706290914024-725ytf",
+        "url": "https://i.pinimg.com/736x/4b/90/a7/4b90a7c3af2a1a2e05ba64e693104109.jpg",
         "_id": "65b3eee8eb20546ae6d467fe"
       },
       "_id": "65b3e33db48589dfcae1851d",
