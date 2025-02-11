@@ -395,7 +395,7 @@
       "sequence": 6,
       "image": {
         "public_id": "1706285323287-nt3ya3",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/saas.png?raw=true"
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/Code-reviewer.png?raw=true"
       },
       "description": "This project is designed to help developers submit their code for review, get feedback, and improve the quality of their codebase. It supports various features like user authentication, code submission, feedback, and collaboration.",
       "techStack": ["LLM", "Express", "Reactjs ", " NodeJS "],
