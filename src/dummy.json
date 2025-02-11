@@ -387,6 +387,20 @@
       "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS ", " TailwindCSS"],
       "_id": "65b3d719313a9b09a24a148f",
       "enabled": true
+    },
+    {
+      "liveurl": "https://github.com/shreyasshirwadkar/code-reviewer",
+      "githuburl": "https://github.com/shreyasshirwadkar/code-reviewer",
+      "title": "Code Reviewer",
+      "sequence": 6,
+      "image": {
+        "public_id": "1706285323287-nt3ya3",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/saas.png?raw=true"
+      },
+      "description": "This project is designed to help developers submit their code for review, get feedback, and improve the quality of their codebase. It supports various features like user authentication, code submission, feedback, and collaboration.",
+      "techStack": ["LLM", "Express", "Reactjs ", " NodeJS "],
+      "_id": "65b3d8fed017f6b49c778ba9",
+      "enabled": true
     }
   ],
   "social_handles": [
