@@ -100,8 +100,8 @@ const Contact = ({ email, social_handle, about }: ContactProps) => {
           <SlideIn className="text-white/40">Interested in talking,</SlideIn>{" "}
           <br /> <SlideIn>let’s do it.</SlideIn>
         </SectionHeading>
-        <div className="grid md:grid-cols-2 gap-x-36 md:pt-16">
-          <form className="space-y-4" onSubmit={handleSubmit}>
+        <div className="grid md:grid-cols-2 md:gap-x-36 gap-10  md:pt-16 mb-4">
+          {/* <form className="space-y-4" onSubmit={handleSubmit}>
             <div className="flex gap-4">
               <Transition className="w-full">
                 <Input
@@ -167,13 +167,13 @@ const Contact = ({ email, social_handle, about }: ContactProps) => {
                 </motion.button>
               </Transition>
             </div>
-          </form>
+          </form> */}
           <div className="md:justify-self-end flex flex-col">
             <div className="pb-4">
               <Transition>
                 <span className="text-white/90">Get in touch</span>
               </Transition>
-              <div className="text-2xl md:text-3xl font-bold py-2">
+              <div className="text-md md:text-3xl font-bold py-2">
                 <Transition>
                   <TextReveal>{email}</TextReveal>
                 </Transition>

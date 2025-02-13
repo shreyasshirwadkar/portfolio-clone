@@ -319,76 +319,6 @@
   ],
   "projects": [
     {
-      "liveurl": "https://landing-page-leo.vercel.app/",
-      "githuburl": "#",
-      "title": "Saas Landing Page",
-      "sequence": 5,
-      "image": {
-        "public_id": "1706285323287-nt3ya3",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/saas.png?raw=true"
-      },
-      "description": "Developed a responsive and animated landing page for a SaaS platform, enhancing user experience with modern design and smooth transitions.",
-      "techStack": [" Nextjs ", "Reactjs ", " Mern ", " CSS"],
-      "_id": "65b3d8fed017f6b49c778ba9",
-      "enabled": true
-    },
-    {
-      "liveurl": "https://credenz.co.in/",
-      "githuburl": "#",
-      "title": "Credenz",
-      "sequence": 4,
-      "image": {
-        "public_id": "1706284852474-gh2ng",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/credenz.png?raw=true"
-      },
-      "description": "Designed a retro game-themed website for the Credenz event hosted by PICT IEEE Student Branch, integrating creative elements for an engaging experience.",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d734313a9b09a24a14a3",
-      "enabled": true
-    },
-    {
-      "liveurl": "https://quizaid.netlify.app/",
-      "githuburl": "#",
-      "title": "Quiz Aid",
-      "sequence": 3,
-      "image": {
-        "public_id": "1706284839761-ckccdj",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/quiz.png?raw=true"
-      },
-      "description": "Developed an Interactive Quiz Platform tailored for children with hearing and speech impairments, as part of a special initiative at PICT College, supported by the Rajiv Gandhi Science and Technology Commission, Government of Maharashtra.",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d728313a9b09a24a1498",
-      "enabled": true
-    },
-    {
-      "liveurl": "https://github.com/shreyasshirwadkar/medium-blog-app",
-      "githuburl": "https://github.com/shreyasshirwadkar/medium-blog-app",
-      "title": "Medium clone",
-      "sequence": 1,
-      "image": {
-        "public_id": "1706284812399-jr7rqj",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/medium.png?raw=true"
-      },
-      "description": "Built a Medium clone blog platform, enabling users to publish, read, and edit blogs, focusing on functionality and user-friendly design.",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d70d313a9b09a24a1488",
-      "enabled": true
-    },
-    {
-      "liveurl": "https://virtuebyte.in/",
-      "githuburl": "#",
-      "title": "Virtuebyte",
-      "sequence": 2,
-      "image": {
-        "public_id": "1706284824843-56iakg",
-        "url": "https://github.com/shreyasshirwadkar/images/blob/main/virtuebyte.png?raw=true"
-      },
-      "description": "Designed and developed a fully responsive website for the company using ReactJS, improving functionality and user engagement.",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS ", " TailwindCSS"],
-      "_id": "65b3d719313a9b09a24a148f",
-      "enabled": true
-    },
-    {
       "liveurl": "https://github.com/shreyasshirwadkar/code-reviewer",
       "githuburl": "https://github.com/shreyasshirwadkar/code-reviewer",
       "title": "Code Reviewer",
@@ -400,6 +330,76 @@
       "description": "This project is designed to help developers submit their code for review, get feedback, and improve the quality of their codebase. It supports various features like user authentication, code submission, feedback, and collaboration.",
       "techStack": ["LLM", "Express", "Reactjs ", " NodeJS "],
       "_id": "65b3d8fed017f6b49c778ba9",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://github.com/shreyasshirwadkar/medium-blog-app",
+      "githuburl": "https://github.com/shreyasshirwadkar/medium-blog-app",
+      "title": "Medium clone",
+      "sequence": 5,
+      "image": {
+        "public_id": "1706284812399-jr7rqj",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/medium.png?raw=true"
+      },
+      "description": "Built a Medium clone blog platform, enabling users to publish, read, and edit blogs, focusing on functionality and user-friendly design.",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d70d313a9b09a24a1488",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://quizaid.netlify.app/",
+      "githuburl": "#",
+      "title": "Quiz Aid",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706284839761-ckccdj",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/quiz.png?raw=true"
+      },
+      "description": "Developed an Interactive Quiz Platform tailored for children with hearing and speech impairments, as part of a special initiative at PICT College, supported by the Rajiv Gandhi Science and Technology Commission, Government of Maharashtra.",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d728313a9b09a24a1498",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://landing-page-leo.vercel.app/",
+      "githuburl": "#",
+      "title": "Saas Landing Page",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706285323287-nt3ya3",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/saas.png?raw=true"
+      },
+      "description": "Developed a responsive and animated landing page for a SaaS platform, enhancing user experience with modern design and smooth transitions.",
+      "techStack": [" Nextjs ", "Reactjs ", " Mern ", " CSS"],
+      "_id": "65b3d8fed017f6b49c778ba9a",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://credenz.co.in/",
+      "githuburl": "#",
+      "title": "Credenz",
+      "sequence": 2,
+      "image": {
+        "public_id": "1706284852474-gh2ng",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/credenz.png?raw=true"
+      },
+      "description": "Designed a retro game-themed website for the Credenz event hosted by PICT IEEE Student Branch, integrating creative elements for an engaging experience.",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
+      "_id": "65b3d734313a9b09a24a14a3",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://virtuebyte.in/",
+      "githuburl": "#",
+      "title": "Virtuebyte",
+      "sequence": 1,
+      "image": {
+        "public_id": "1706284824843-56iakg",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/virtuebyte.png?raw=true"
+      },
+      "description": "Designed and developed a fully responsive website for the company using ReactJS, improving functionality and user engagement.",
+      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS ", " TailwindCSS"],
+      "_id": "65b3d719313a9b09a24a148f",
       "enabled": true
     }
   ],
