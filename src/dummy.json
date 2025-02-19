@@ -329,15 +329,7 @@
       },
 
       "description": "The Mental Health Platform is designed to help users track their mental well-being, connect with therapists, and interact with an AI-powered chatbot for support. It includes features such as user authentication, mood tracking, surveys, and protected routes to ensure secure access and privacy.",
-      "techStack": [
-        "Next.js",
-        "React.js",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "Tailwind CSS",
-        "JWT Authentication"
-      ],
+      "techStack": ["Next.js", "React.js", "Node.js", "PostgreSQL", "JWT"],
 
       "_id": "65b3d8fed017f6b49c778ba9aaa",
       "enabled": true
