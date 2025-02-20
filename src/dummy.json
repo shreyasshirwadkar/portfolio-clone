@@ -319,6 +319,27 @@
   ],
   "projects": [
     {
+      "liveurl": "https://github.com/shreyasshirwadkar/resume-analysis/",
+      "githuburl": "https://github.com/shreyasshirwadkar/resume-analysis/",
+      "title": "Resume Analysis App",
+      "sequence": 8,
+      "image": {
+        "public_id": "1706285323287-resumeapp",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKm0E6eBrWFya0JgxWwArtcXop1nJ7SHfTkw&s"
+      },
+      "description": "The Resume Analysis App processes unstructured resume text using Gemini LLM to extract key details such as name, email, education, experience, skills, and a generated summary. It ensures secure API access with JWT authentication and AES encryption for sensitive applicant data.",
+      "techStack": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Gemini LLM",
+        "JWT",
+        "AES Encryption"
+      ],
+      "_id": "65b3d8fed017f6b49c778ba9bbb",
+      "enabled": true
+    },
+    {
       "liveurl": "https://mentalhealth-platform.vercel.app/",
       "githuburl": "https://github.com/shreyasshirwadkar/mentalhealth-platform/",
       "title": "Mental Health Platform",
