@@ -325,7 +325,7 @@
       "sequence": 8,
       "image": {
         "public_id": "1706285323287-resumeapp",
-        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKm0E6eBrWFya0JgxWwArtcXop1nJ7SHfTkw&s"
+        "url": "https://repository-images.githubusercontent.com/541565470/5877ba9f-9ca7-4c20-bd2f-de8221f2ded9"
       },
       "description": "The Resume Analysis App processes unstructured resume text using Gemini LLM to extract key details such as name, email, education, experience, skills, and a generated summary. It ensures secure API access with JWT authentication and AES encryption for sensitive applicant data.",
       "techStack": [
