@@ -319,6 +319,20 @@
   ],
   "projects": [
     {
+      "liveurl": "https://better-webclone.vercel.app/",
+      "githuburl": "https://github.com/shreyasshirwadkar/better-webclone",
+      "title": "Finance Website",
+      "sequence": 9,
+      "image": {
+        "public_id": "1706285323287-resumeapp",
+        "url": "https://github.com/shreyasshirwadkar/images/blob/main/better-clone.png?raw=true"
+      },
+      "description": "Fully responsive and attractive website clone of better.com",
+      "techStack": [" NextJS ", "React", " TailwindCSS"],
+      "_id": "65b3d8fed017f6b49c778ba9bbcccb",
+      "enabled": true
+    },
+    {
       "liveurl": "https://github.com/shreyasshirwadkar/resume-analysis/",
       "githuburl": "https://github.com/shreyasshirwadkar/resume-analysis/",
       "title": "Resume Analysis App",
